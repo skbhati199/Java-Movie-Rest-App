@@ -1,4 +1,4 @@
-package dev.skbhati199.moviesapp;
+package dev.skbhati199.moviesapp.movie;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

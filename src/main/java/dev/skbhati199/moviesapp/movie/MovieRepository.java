@@ -1,4 +1,4 @@
-package dev.skbhati199.moviesapp;
+package dev.skbhati199.moviesapp.movie;
 
 import org.bson.types.ObjectId;
 import org.springframework.data.mongodb.repository.MongoRepository;

@@ -1,0 +1,12 @@
+version: '3'
+services:
+  api:
+    build:
+      context: .
+    ports:
+      - "8080:8080"
+    environment:
+      MONGO_DATABASE: infoskills-db
+      MONGO_USER: skbhati199
+      MONGO_PASSWORD: enJ25my3G2vmzYpq
+      MONGO_CLUSTER: infoskills-db.ozbe2bs.mongodb.net

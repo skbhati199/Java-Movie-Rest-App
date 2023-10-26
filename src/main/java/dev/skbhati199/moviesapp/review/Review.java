@@ -1,4 +1,4 @@
-package dev.skbhati199.moviesapp.movie;
+package dev.skbhati199.moviesapp.review;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
